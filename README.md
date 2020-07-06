@@ -144,7 +144,7 @@ menu bar which contains options like File and Edit which contains options like:
 
 </b>
 
-### 6.1 File
+#### 6.1 File
 
 The Open option will open a dialog box which will be used to select the
 .ENVI file which then will be used to load the hyperspectral image. The Save
@@ -156,20 +156,20 @@ The Open option opens a dialog box and allows us to select the image to
 open. For this I used the spectral library of python from which I used io class
 and envi function.
 
-### 6.2 Edit
+#### 6.2 Edit
 
 The ”Edit” menu contains ”Bands” option which will open a window in
 which the user have to enter 3 values i.e the bands which will show the image
 in having the entered bands.
 
-### 6.3 Graph
+#### 6.3 Graph
 
 The graph in one the image above is created by Spectral library. This
 library has an in-built function that will show the graph of reflectance values
 vs wavelength. This graph gives us the information of the object present in the
 pixel selected.
 
-### 6.4 Preprocessing
+#### 6.4 Preprocessing
 
 The bands having negative values are not used and so we need to remove it.
 For that I used a library called Hyspeclib. This library gives eigenvavlues and
