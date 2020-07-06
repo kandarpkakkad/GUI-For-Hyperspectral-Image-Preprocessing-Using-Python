@@ -21,7 +21,7 @@ the hang of concerning Earth. For instance, an optical contraption shaft remote
 distinctive structure comes a laser onto the outside of Earth and measures the
 time that it takes for the laser to reflect back to its perceiving part.
 
-![Figure 1](https://github.com/kandarpkakkad/GUI-For-Hyperspectral-Image-Preprocessing-Using-Python/blob/master/Images/pic1.png)
+![Figure 1](Images/pic1.png)
 
 ## 2. Application of Remote Sensing
 
