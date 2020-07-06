@@ -185,3 +185,9 @@ reflectance values that are negative.
 - http://www.spectralpython.net/
 
 - https://github.com/hetul-patel/hyspeclib
+
+## 8. To-Do
+
+- [ ] Identifying the region based on reflectance value.
+- [ ] Using clustering algorithms to predict the region.
+- [ ] Format the code to a more readable format.
