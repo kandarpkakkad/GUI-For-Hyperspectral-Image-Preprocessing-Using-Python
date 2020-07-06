@@ -48,13 +48,13 @@ Multiband image data are represented by a combination of spatial position
 (pixel number and line number) and band. The data format for remote sensing
 images is classified into the following three types:
 
-<b>BSQ:</b> Band SeQuential image data (pixel number and line number) of each band
+**BSQ:** Band SeQuential image data (pixel number and line number) of each band
 are separately stored.
 
-<b>BIL:</b> Band Interleaved by Line data are arranged in the order of band number
+**BIL:** Band Interleaved by Line data are arranged in the order of band number
 and repeated with respect to the line number.
 
-<b>BIP:</b> Band Interleaved by Pixel data with respect to each pixel arranged spa-
+**BIP:** Band Interleaved by Pixel data with respect to each pixel arranged spa-
 tially by pixel number and line number.
 
 For shading picture yield, BSQ organization would be helpful on the grounds
@@ -89,7 +89,7 @@ and furthermore the qualities of that object.
 The classification of the objects can be done on the basis of wavelengths.
 Few examples are given below.
 
-<b>Vegetation:</b> Chlorophyll being green acclimatizes light at wavelength around 0.45m
+**Vegetation:** Chlorophyll being green acclimatizes light at wavelength around 0.45m
 (blue) and 0.67m (red) and reflect immovably in green light, in this man-
 ner our eyes see strong vegetation as green. Strong plants have a high
 reflectance in close infrared some place in the scope of 0.7m and 1.3m.
@@ -97,7 +97,7 @@ This is fundamentally a result of the inside structure of plant leaves. As
 the inside structure of leaves varies from plant to plant. This urges us to
 understand which plant is there.
 
-<b>Water:</b> In the liquid state, water has commonly low reflectance, with clear wa-
+**Water:** In the liquid state, water has commonly low reflectance, with clear wa-
 ter having the best reflectance in the blue portion of the unmistakable
 piece of the range. Water has high absorption and no reflectance in the
 nearby infrared wavelengths extend.Turbid water has high reflectance in
@@ -106,23 +106,19 @@ ters containing vegetation. Ice and snow all things considered have high
 reflectance over each perceptible wavelength. Reflectance reduces in the
 nearby infrared section and there is low reflectance in shortwave infrared.
 
-<b>Soil:</b> Exposed soil, for the most part, has to expand reflectance, with more
+**Soil:** Exposed soil, for the most part, has to expand reflectance, with more
 noteworthy reflectance in close infrared and shortwave infrared. A few
 variables influencing the reflectance are:
 
-<b>
+- **Moisture Content**
 
-- Moisture Content
+- **Soil Texture**
 
-- Soil Texture
+- **Surface Roughness**
 
-- Surface Roughness
+- **Presence of FeO 2 and Fe 2 O 3**
 
-- Presence of FeO 2 and Fe 2 O 3
-
-- Moisture Content
-
-</b>
+- **Moisture Content**
 
 ## 6. GUI Usage
 
@@ -134,15 +130,12 @@ box to navigate hrough computer drives and select the file.
 Here I first created a frame in which we will be making other features like
 buttons or menu or even loading the photo. After that I created a navigation
 menu bar which contains options like File and Edit which contains options like:
-<b>
 
-- File: ”Open”, ”Save”, ”Exit”
+- **File: ”Open”, ”Save”, ”Exit”**
 
-- Edit: ”Bands”
+- **Edit: ”Bands”**
 
-- Quit: ”Quit”
-
-</b>
+- **Quit: ”Quit”**
 
 #### 6.1 File
 
