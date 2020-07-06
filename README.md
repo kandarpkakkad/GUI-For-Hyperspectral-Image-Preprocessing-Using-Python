@@ -186,7 +186,18 @@ reflectance values that are negative.
 
 - https://github.com/hetul-patel/hyspeclib
 
-## 8. To-Do
+## 8. Acknowledgement
+
+I would like to express my deepest appreciation to all those who provided me
+with the possibility to complete this project. I acknowledge with thanks, the
+support rendered by Prof. Tarjani Vyas and Junior Research fellow Kinjal
+Dave, under whose support I was able to complete the task in a given period
+of time. I also appreciate the constructive suggestions given by my friends to
+further enhance the content of the project and report. At the home front, I am extremely
+grateful to my family members for the support and encouragement I got from
+them in successfully completing the project.
+
+## 9. To-Do
 
 - [ ] Identifying the region based on reflectance value.
 - [ ] Using clustering algorithms to predict the region.
