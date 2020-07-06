@@ -82,7 +82,7 @@ pixel and has diverse reflectance esteems for various wavelengths. By plotting
 of reflectance esteems versus wavelengths chart we can realize which object it is
 and furthermore the qualities of that object.
 
-![Figure 2](https://github.com/kandarpkakkad/GUI-For-Hyperspectral-Image-Preprocessing-Using-Python/blob/master/Images/pic2.png)
+![Figure 2](Images/pic2.png)
 
 ## 5. Classification of Reflectance Values
 
