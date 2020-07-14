@@ -208,7 +208,7 @@ To run the program run the Front_End_GUI.py file.
   python3 Front_End_GUI.py
 </pre>
 
-## 9. To-Do
+## 10. To-Do
 
 - [ ] Identifying the region based on reflectance value.
 - [ ] Using clustering algorithms to predict the region.
