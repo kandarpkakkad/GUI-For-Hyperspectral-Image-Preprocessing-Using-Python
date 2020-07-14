@@ -197,6 +197,17 @@ further enhance the content of the project and report. At the home front, I am e
 grateful to my family members for the support and encouragement I got from
 them in successfully completing the project.
 
+## 9. Run The Code
+
+Intall the requirements from requirements.txt.
+<pre>
+  pip3 install -r requirements.txt
+</pre>
+To run the program run the Front_End_GUI.py file.
+<pre>
+  python3 Front_End_GUI.py
+</pre>
+
 ## 9. To-Do
 
 - [ ] Identifying the region based on reflectance value.
